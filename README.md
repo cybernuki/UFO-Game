@@ -15,9 +15,7 @@ Once it has downloaded, start Unity and open the repo as a project clicking on <
 
 ><h1 align="center"> <img src="https://imgur.com/hHoWHxe.png"></h1>
 
-Then, you can open the project. Once in, open, by double click, the <b>Main</b> scene. <br>
-
-><h1 align="center"> <img src="https://imgur.com/QokgLmT.png"></h1>
+And that's it, go to play.
 
 ### How to play
 
